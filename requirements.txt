@@ -109,8 +109,7 @@ typing-extensions
 urllib3                           
 wcwidth                           
 webencodings                    
-wheel                            
-win-inet-pton                     
+wheel                                              
 wincertstore                    
 xarray                          
 zipp                           
