@@ -22,7 +22,8 @@ decorator
 defusedxml                      
 dnspython                        
 entrypoints                     
-ephem                          
+ephem 
+pystan                           
 fbprophet                      
 fonttools                       
 hijri-converter              
@@ -84,7 +85,7 @@ pyOpenSSL
 pyparsing                         
 pyrsistent                       
 PySocks                           
-pystan                            
+                          
 python-dateutil                   
 pytz                                                      
                          
