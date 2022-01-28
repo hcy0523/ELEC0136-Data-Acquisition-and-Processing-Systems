@@ -33,9 +33,7 @@ importlib-metadata
 ipykernel                         
 ipython                          
 ipython-genutils               
-jedi                            
-Jinja2                           
-joblib                            
+                         
 jsonschema                       
 jupyter-client                   
 jupyter-contrib-core             
