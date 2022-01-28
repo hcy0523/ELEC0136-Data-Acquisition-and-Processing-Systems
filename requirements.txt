@@ -1,3 +1,4 @@
+pystan
 fbprophet                      
 fonttools                       
 hijri-converter              
