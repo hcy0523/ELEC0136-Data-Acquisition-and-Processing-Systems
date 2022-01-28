@@ -4,7 +4,7 @@ pandas
 numpy 
 datetime
 matplotlib
-pymongo
+pymongo[srv]
 matplotlib
 scikit-learn
 scipy 
