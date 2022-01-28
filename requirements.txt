@@ -11,5 +11,5 @@ scipy
 seaborn 
 holidays
 Cython
-pystan
+pystan==2.19.1.1
 fbprophet
