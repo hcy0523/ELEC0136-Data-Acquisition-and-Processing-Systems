@@ -10,5 +10,6 @@ scikit-learn
 scipy 
 seaborn 
 holidays
+Cython
 pystan
 fbprophet
