@@ -84,7 +84,7 @@ pyOpenSSL
 pyparsing                         
 pyrsistent                       
 PySocks                           
-pystan                            
+                         
 python-dateutil                   
 pytz                             
                        
