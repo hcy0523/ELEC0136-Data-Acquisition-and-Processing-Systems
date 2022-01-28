@@ -87,7 +87,7 @@ PySocks
 pystan                            
 python-dateutil                   
 pytz                                                      
-pywinpty                         
+                         
 PyYAML                            
 pyzmq                            
 requests                          
